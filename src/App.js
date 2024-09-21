@@ -4,6 +4,7 @@ import "bootstrap/dist/js/bootstrap.min.js";
 import NavBar from "./Components/NavBar.js";
 import ShowCase from "./Components/ShowCase.js";
 import NewsLetter from "./Components/NewsLetter.js";
+import Boxes from "./Components/Boxes.js";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <NavBar />
       <ShowCase />
       <NewsLetter />
+      <Boxes />
     </>
   );
 }
