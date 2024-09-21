@@ -1,12 +1,18 @@
-[class*="col"] {
+/* [class*="col"] {
   padding: 1rem;
   background-color: #33b5e5;
   border: 2px solid #fff;
   color: #fff;
-}
+} */
 
 .navbar-collapse {
   background: transparent;
   border: none;
   padding: 0;
+}
+
+@media (min-width: 768px) {
+  .news-input {
+    width: 50%;
+  }
 }

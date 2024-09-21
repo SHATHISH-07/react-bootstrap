@@ -4,7 +4,7 @@ import ShowcaseImg from "../img/showcase.svg";
 const ShowCase = () => {
   return (
     <>
-      <section className="bg-dark text-light p-5 text-center text-sm-start">
+      <section className="bg-dark text-light p-5 p-lg-0 pt-lg-5 text-center text-sm-start">
         <div className="container">
           <div className="d-sm-flex align-items-center justify-content-between">
             <div>
