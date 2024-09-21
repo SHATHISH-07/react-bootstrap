@@ -5,6 +5,7 @@ import NavBar from "./Components/NavBar.js";
 import ShowCase from "./Components/ShowCase.js";
 import NewsLetter from "./Components/NewsLetter.js";
 import Boxes from "./Components/Boxes.js";
+import LearnSection from "./Components/LearnSection.js";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <ShowCase />
       <NewsLetter />
       <Boxes />
+      <LearnSection />
     </>
   );
 }

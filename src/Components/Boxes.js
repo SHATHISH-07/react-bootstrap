@@ -4,7 +4,7 @@ import "bootstrap-icons/font/bootstrap-icons.css";
 const Boxes = () => {
   return (
     <section className="p-5">
-      <div className="row text-center">
+      <div className="row text-center g-4">
         <div className="col-md">
           <div className="card bg-dark text-light">
             <div className="card-body text-center">
