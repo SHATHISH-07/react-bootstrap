@@ -10,6 +10,7 @@ import SecondLearn from "./Components/SecondLearn.js";
 import Questions from "./Components/Questions.js";
 import InstructorSec from "./Components/InstructorSec.js";
 import Contact from "./Components/Contact.js";
+import Footer from "./Components/Footer.js";
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
       <Questions />
       <InstructorSec />
       <Contact />
+      <Footer />
     </>
   );
 }
