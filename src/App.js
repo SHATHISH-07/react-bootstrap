@@ -8,6 +8,7 @@ import Boxes from "./Components/Boxes.js";
 import LearnSection from "./Components/LearnSection.js";
 import SecondLearn from "./Components/SecondLearn.js";
 import Questions from "./Components/Questions.js";
+import InstructorSec from "./Components/InstructorSec.js";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
       <LearnSection />
       <SecondLearn />
       <Questions />
+      <InstructorSec />
     </>
   );
 }
