@@ -7,6 +7,7 @@ import NewsLetter from "./Components/NewsLetter.js";
 import Boxes from "./Components/Boxes.js";
 import LearnSection from "./Components/LearnSection.js";
 import SecondLearn from "./Components/SecondLearn.js";
+import Questions from "./Components/Questions.js";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <Boxes />
       <LearnSection />
       <SecondLearn />
+      <Questions />
     </>
   );
 }
