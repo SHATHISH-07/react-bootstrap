@@ -9,6 +9,7 @@ import LearnSection from "./Components/LearnSection.js";
 import SecondLearn from "./Components/SecondLearn.js";
 import Questions from "./Components/Questions.js";
 import InstructorSec from "./Components/InstructorSec.js";
+import Contact from "./Components/Contact.js";
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
       <SecondLearn />
       <Questions />
       <InstructorSec />
+      <Contact />
     </>
   );
 }
